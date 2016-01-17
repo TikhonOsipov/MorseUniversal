@@ -2,5 +2,9 @@
     {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

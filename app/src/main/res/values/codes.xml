@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="russian_codes">
+        <item>._</item>
+        <item>_...</item>
+        <item>.__</item>
+        <item>__.</item>
+        <item>_..</item>
+        <item>.</item>
+        <item>..._</item>
+        <item>__..</item>
+        <item>..</item>
+        <item>.___</item>
+        <item>_._</item>
+        <item>._..</item>
+        <item>__</item>
+        <item>_.</item>
+        <item>___</item>
+        <item>.__.</item>
+        <item>._.</item>
+        <item>...</item>
+        <item>_</item>
+        <item>.._</item>
+        <item>.._.</item>
+        <item>....</item>
+        <item>_._.</item>
+        <item>___.</item>
+        <item>____</item>
+        <item>__._</item>
+        <item>_.._</item>
+        <item>_.__</item>
+        <item>.._..</item>
+        <item>..__</item>
+        <item>._._</item>
+
+        <item>.____</item>
+        <item>..___</item>
+        <item>...__</item>
+        <item>...._</item>
+        <item>.....</item>
+        <item>_....</item>
+        <item>__...</item>
+        <item>___..</item>
+        <item>____.</item>
+        <item>_____</item>
+        <item>......</item>
+        <item>._._._</item>
+        <item>_._._.</item>
+        <item>___...</item>
+        <item>..__..</item>
+        <item>__..__</item>
+        <item>_...._</item>
+        <item>._.._.</item>
+        <item>_.__._</item>
+        <item>_.._.</item>
+    </string-array>
+</resources>

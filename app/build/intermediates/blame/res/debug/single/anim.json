@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
     },
@@ -12,8 +16,20 @@
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
@@ -24,6 +40,30 @@
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
     },
@@ -32,11 +72,11 @@
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
     }
 ]

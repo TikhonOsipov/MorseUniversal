@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/tikhon/AndroidStudioProjects/MorseUniversal/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/tikhon/AndroidStudioProjects/LongPress/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
         "source": "/Users/tikhon/AndroidStudioProjects/LongPress/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
